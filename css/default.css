@@ -183,7 +183,7 @@ img {
 	height: 50px;
 	margin: -50px auto 0 auto;
 	background: url(../images/img02.jpg) no-repeat;
-	margin-left: 150px;
+	
 }
 
 #menu ul {
@@ -342,8 +342,8 @@ img {
 	clear: both;
 	width: 700px;
 	margin: 0 auto;
-	padding: 10px 0;
-	border-top: 1px dotted #FFFFFF;
+	padding: 20px 0;
+	border-top: 5px dotted #FFFFFF;
 }
 
 #footer p {
